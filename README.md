@@ -30,9 +30,8 @@ practica3-ctg/
 │           ├─ barplots.py
 │           ├─ density.py
 │           └─ heatmap.py
-├─ tests/
-│   ├─ test_preprocessing.py
-│   ├─ test_categorization.py
-│   └─ test_utils.py
-└─ report/
+└─ tests/
+    ├─ test_preprocessing.py
+    ├─ test_categorization.py
+    └─ test_utils.py report/
     └─ Reporte_Practica3_CTG.pdf
