@@ -16,7 +16,7 @@ practica3-ctg/
 ├─ data/
 │   └─ CTG.csv
 ├─ notebooks/
-│   └─ Practica3_CTG.ipynb
+│   └─ main.ipynb
 ├─ src/
 │   └─ ctg_viz/
 │       ├─ __init__.py
