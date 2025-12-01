@@ -33,5 +33,4 @@ practica3-ctg/
 └─ tests/
     ├─ test_preprocessing.py
     ├─ test_categorization.py
-    └─ test_utils.py report/
-    └─ Reporte_Practica3_CTG.pdf
+    └─ test_utils.py
